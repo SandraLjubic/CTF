@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/github.com\/SandraLjubic\/CTF\/map_duesterwald.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/SandraLjubic.github.io\/CTF\/map_duesterwald.json"
                 }],
          "type":"tilelayer",
          "visible":true,

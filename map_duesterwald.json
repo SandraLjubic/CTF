@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/SandraLjubic.github.io\/CTF\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/gematik\/Community"
                 }],
          "type":"tilelayer",
          "visible":true,
